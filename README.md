@@ -1,10 +1,10 @@
 # JavaScript Algorithms Practice
 
-Take an hour to work on the below algorithms and then share you work with a partner and/or group. These algorithms are listing in increasing difficulty, so don't be surprised if the last one taxes your brain!!! 
+Take some time to work on the below algorithms and then share you work with a partner and/or group. These algorithms are listing in increasing difficulty, so don't be surprised if the last one taxes your brain!!! 
 
 Practice working on these as you would work on them in an interview. Restate the problem and break it into smaller subproblems. Write some messy code, then refactor and think about *how* your refactoring improves your code. Get to the simplest working code first (often the brute force solution), then think about if there is another way to solve the problem that might be more efficient.
 
-Lastly, these are all very common algorithms. Feel free to search the web and read more about their implementation, but avoid from looking at any code before you write your own. After you've spent an hour with them, feel free to compare your work to solutions on the internet.
+Lastly, these are all very common algorithms. Feel free to search the web and read more about their implementation, but avoid from looking at any code before you write your own. After you've spent tie with them, feel free to compare your work to solutions on the internet.
 
 
 ### Fibonacci
